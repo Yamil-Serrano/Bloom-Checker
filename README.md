@@ -142,8 +142,7 @@ Benefits:
 - **[File icons](https://www.flaticon.com/free-icons/file)** created by [Good Ware](https://www.flaticon.com/authors/good-ware) - Flaticon
 
 ## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE.md).
+This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 
